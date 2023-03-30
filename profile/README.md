@@ -28,3 +28,6 @@ The fork should be compatible with vanilla Godot, and run / load faster in the E
 
 ### Build
 * Optional unity build (3x faster compilation) - https://github.com/godotengine/godot/pull/69405
+
+## License
+godot-plus is MIT licensed, and shares the same license as godot engine.
