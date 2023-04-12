@@ -25,6 +25,7 @@ The fork should be compatible with vanilla Godot, and run / load faster in the E
 ### Rendering
 * Batching - MultiRect command (2x faster 2D in bottleneck scenes) - https://github.com/godotengine/godot/pull/68960
 * Canvas item hierarchical culling (up to 16000x faster when 2D items are off screen) - https://github.com/godotengine/godot/pull/68738
+* Fix Polygon2D skinned bounds (for culling) - https://github.com/godotengine/godot/pull/75612
 
 ### Build
 * Optional unity build (3x faster compilation) - https://github.com/godotengine/godot/pull/69405
