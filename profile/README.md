@@ -28,6 +28,7 @@ Select the godot-plus repository, and click the releases tab.
 * Batching - MultiRect command (2x faster 2D in bottleneck scenes) - https://github.com/godotengine/godot/pull/68960
 * Canvas item hierarchical culling (up to 16000x faster when 2D items are off screen) - https://github.com/godotengine/godot/pull/68738
 * Fix Polygon2D skinned bounds (for culling) - https://github.com/godotengine/godot/pull/75612
+* Add MergeGroup node to simplify merging Meshes at runtime - https://github.com/godotengine/godot/pull/61568
 
 #### Build
 * Optional unity build (3x faster compilation) - https://github.com/godotengine/godot/pull/69405
