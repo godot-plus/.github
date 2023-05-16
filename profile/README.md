@@ -9,7 +9,8 @@ Please report issues / bugs specific to this fork in the _godot-plus_ issues. Ge
 The fork should be compatible with vanilla Godot, and run / load faster in the Editor / projects, and compile 3x faster in DEV unity builds.
 
 #### Downloads
-Select the godot-plus repository, and click the releases tab.
+Head here for latest builds:
+https://github.com/godot-plus/godot-plus/releases
 
 ### License
 godot-plus is MIT licensed, and shares the same license as godot engine.
